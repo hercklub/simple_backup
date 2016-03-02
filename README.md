@@ -1,12 +1,9 @@
 # Simple_backup
-This app is designed to make simple back up of your files or directories and also to recover from those backups.
-It is capable of doing incremental backups . 
-We are using our custom binary format for saving data wich is inpired from tar but its not compatible with it.
-Dont rely on back ups made by this app , after all this was just school project and may contain some bugs :) 
+This program is designed to make incremental back up of your files or directories and also to recover from those backups.
 
 **Setup**
 
-To build this project all you need is execute 'make' or 'make all'.
+To build this project you need execute 'make all'.
 
 **Usage**
 
